@@ -1,4 +1,4 @@
-# FUTURE_ML_02
+# support-ticket-classification-and-prioritize-system
 Project Overview: 
 
 This project uses Natural Language Processing (NLP) and Machine Learning to automate customer support ticket handling. The system analyzes ticket text, classifies tickets into categories (such as Billing, Technical Issues, Account Management, etc.), and predicts their urgency level (High, Medium, Low).
